@@ -45,7 +45,7 @@ The Power BI dashboard includes the gollowing visualizations;
 ## Key Insights
 - The Total Revenue experienced a slight decline between 2014 and 2015 but increased significantly afterward, reaching its highest point in 2017.
 - The technology category recorded the highest total revenue among all categories, however revenue across all thee categories (technology, furniture, office supplies) is relatively balanced.
-- The West region recorded the highest Total Revenue among all regions, with the East region recording the seconnd highest (relatively closre to the West) and the South Region recording the lowest Total Revenue compared to all the regions.
+- The West region recorded the highest Total Revenue among all regions, with the East region recording the second highest (relatively closer to the West) and the South Region recording the lowest Total Revenue compared to all the regions.
 - Phones recorded the highest total revenue at approximately $330K in total revenue followed very closely by chairs at a total revenue of $328K, making these 2 products the biggest revenue drivers in the company.
 
 ## Dashboard Review
