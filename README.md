@@ -9,7 +9,7 @@ The analysis aims to answer the following business questions:
 - Which regions contribute the most to tatal revenue?
 - Which products are the top revenue drivers?
 
-## Tools used
+## Tools Used
 - Excel - Data cleaning and processing
 - Power BI - Data visualization and dashboard creation
 - Microsoft word - Documenting the insights and analysis
@@ -48,5 +48,5 @@ The Power BI dashboard includes the gollowing visualizations;
 - The West region recorded the highest Total Revenue among all regions, with the East region recording the seconnd highest (relatively closre to the West) and the South Region recording the lowest Total Revenue compared to all the regions.
 - Phones recorded the highest total revenue at approximately $330K in total revenue followed very closely by chairs at a total revenue of $328K, making these 2 products the biggest revenue drivers in the company.
 
-##Dashboard Review
+## Dashboard Review
 ![Dashboard Screenshot](Dashboard_Screenshot.png)
